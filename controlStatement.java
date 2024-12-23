@@ -12,8 +12,8 @@ public class controlStatement {
         2-while
         3-do while loop
         */
-        int age=15;
-        int num=10;
+        // int age=15;
+        // int num=10;
         /*  if(age>18){
             System.out.println("You can drive");
         }
