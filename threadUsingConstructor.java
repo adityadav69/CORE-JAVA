@@ -28,8 +28,8 @@ public class threadUsingConstructor {
         Thread2 t2=new Thread2("Aditya yadav");
         System.out.println("Name of thread 1 is "+t1.getName());
         System.out.println("Name of thread 2 is "+t2.getName());
-        System.out.println("Name of thread 1 is "+t1.getId());
-        System.out.println("Name of thread 2 is "+t2.getId());
+        // System.out.println("Name of thread 1 is "+t1.getId());
+        // System.out.println("Name of thread 2 is "+t2.getId());
 
         t1.start();
     }
